@@ -1,2 +1,4 @@
 # TS-Slack-Clone
-TypeScript+React 
+🚀 `TypeScript` + `React`
+
+
